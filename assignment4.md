@@ -27,7 +27,7 @@ $5,800 from Paul Schneider, Brenda Schneider, Ronald Cameron, Richard Leifer, Ro
 [3.](https://github.com/andrewmarquardt/datavisualization-fall2021/files/7468274/johnson_question3.csv)
  Companies ($30,252,936.97); Individuals ($9,836,133.31); PACs ($742,146.29); Organizations ($312,022.37); CCM ($250)
  
- ### Headline / Nut Graf
+ ### Headline / Nut Graf:
  
  #### Sen. Ron Johnson Receiving More Fundraising Dollars From Virginia Than Home State
  

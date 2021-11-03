@@ -10,7 +10,7 @@ I cleaned the data by removing unnecessary columns, leaving only what will be us
 
 ### Questions:
 
-Which three states have had the most contributors to Johnson's campaign? How much have they contriubted on aggregate? 
+Which three states have had the most contributors to Johnson's campaign? How much have they contributed on aggregate? 
 
 What is the single largest contribution Johnson has received from an individual? Who contributed it? 
 
